@@ -1,4 +1,4 @@
-# Mari
+# Mari [![Ruby on Rails CI](https://github.com/mari-org/mari/actions/workflows/rails.yml/badge.svg)](https://github.com/mari-org/mari/actions/workflows/rails.yml)
 
 A small linear microblogging application.
 
