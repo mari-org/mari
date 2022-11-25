@@ -1,0 +1,7 @@
+web: bin/rails s -p 3000
+# For when we're testing SSR
+# web: bin/vite ssr & bin/rails s
+vite: bin/vite dev
+sidekiq: bin/sidekiq
+memcached: bin/memcached -v
+redis: bin/redis-server

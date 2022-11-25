@@ -1,0 +1,21 @@
+{
+  "all": {
+    "assetsDir": "",
+    "sourceCodeDir": "app/frontend",
+    "ssrOutputDir": "public/assets-ssr",
+    "watchAdditionalPaths": []
+  },
+  "development": {
+    "autoBuild": true,
+    "port": 3036,
+    "publicOutputDir": "assets-dev"
+  },
+  "production": {
+    "publicOutputDir": "assets"
+  },
+  "test": {
+    "autoBuild": true,
+    "port": 3037,
+    "publicOutputDir": "assets-test"
+  }
+}
